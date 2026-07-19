@@ -42,6 +42,17 @@ I work across **data analysis, business intelligence, machine learning, applied 
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/codematch-llm">
+        <img src="https://yuvalbakirov.github.io/assets/projects/codematch.webp" alt="CodeMatch" width="175" align="right">
+      </a>
+      <h3><a href="https://github.com/codematch-llm">CodeMatch — Flagship Applied AI Project</a></h3>
+      <p><strong>Developed an AI-driven system that identifies semantic similarity between code snippets beyond basic text matching.</strong> The project uses LLM embeddings, vector search, benchmark datasets, and model evaluation to represent the meaning of source code, retrieve related snippets efficiently, and assess result quality.</p>
+      <p><code>LLMs</code> <code>Embeddings</code> <code>Qdrant</code> <code>FastAPI</code> <code>Python</code> <code>Evaluation</code></p>
+      <p><strong><a href="https://github.com/codematch-llm">Explore the CodeMatch repositories →</a></strong></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/YuvalBakirov/uber-esb-demand-prediction">Uber ESB Demand Prediction</a></h3>
       <p>Forecasted ride demand near the Empire State Building using time, weather, events, and location signals. Compared ensemble models, with CatBoost achieving the lowest RMSE.</p>
