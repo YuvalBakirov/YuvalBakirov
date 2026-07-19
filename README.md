@@ -10,7 +10,7 @@
 
 ## Hi, I'm Yuval
 
-I work across **data analysis, business intelligence, machine learning, applied AI, and automation**. I enjoy taking an open-ended problem, understanding the data behind it, and building a result that people can use—whether that is a dashboard, a forecasting model, an analytical study, or an AI-assisted workflow.
+I work across **data analysis, business intelligence, machine learning, applied AI, and automation**. I enjoy taking an open-ended problem, understanding the data behind it, and building a result that people can use - whether that is a dashboard, a forecasting model, an analytical study, or an AI-assisted workflow.
 
 - **Data Specialist at Check Point Software** - analytics, reporting, data quality, dashboards, and automation.
 - **Former AI Engineer Intern at Checkmarx / CodeMatch** - LLM embeddings, vector search, benchmark data, and model evaluation.
