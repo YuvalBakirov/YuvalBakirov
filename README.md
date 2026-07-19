@@ -12,9 +12,9 @@
 
 I work across **data analysis, business intelligence, machine learning, applied AI, and automation**. I enjoy taking an open-ended problem, understanding the data behind it, and building a result that people can use—whether that is a dashboard, a forecasting model, an analytical study, or an AI-assisted workflow.
 
-- **Data Specialist at Check Point Software** — analytics, reporting, data quality, dashboards, and automation.
-- **Former AI Engineer Intern at Checkmarx / CodeMatch** — LLM embeddings, vector search, benchmark data, and model evaluation.
-- **B.Sc. in Digital Sciences and Economics, Tel Aviv University** — 2024 Dean's List.
+- **Data Specialist at Check Point Software** - analytics, reporting, data quality, dashboards, and automation.
+- **Former AI Engineer Intern at Checkmarx / CodeMatch** - LLM embeddings, vector search, benchmark data, and model evaluation.
+- **B.Sc. in Digital Sciences and Economics, Tel Aviv University** - 2024 Dean's List.
 - Based in **Israel** and open to conversations across data, analytics, AI, and technology.
 
 ## Technical toolkit
