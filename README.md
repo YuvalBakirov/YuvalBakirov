@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Yuval Bakirov — Data, Analytics, Machine Learning and Applied AI" width="100%">
+  <img src="assets/profile-banner.webp" alt="Yuval Bakirov — Data, Analytics, Machine Learning and Applied AI" width="100%">
 </p>
 
 <p align="center">
